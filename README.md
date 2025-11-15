@@ -1,5 +1,5 @@
-# shadowrocket-conf
-Shadowrocket configuration and rules for personal use.
+# shadowrocket-configs
+Shadowrocket configurations for personal use.
 
 ## openai.conf
 Routing rules for enabling OpenAI services (ChatGPT) and Apple Intelligence features from Hong Kong.  
