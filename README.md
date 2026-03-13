@@ -1,9 +1,12 @@
 # shadowrocket-configs
 Shadowrocket configurations for personal use.
 
-## openai.conf
-Routing rules for enabling OpenAI services (ChatGPT) and Apple Intelligence features from Hong Kong.  
-Designed to be used together with [东方网络](https://panel3.touhou.tel).
+## touhou.conf
+Canonical all-in-one config for personal use with [东方网络](https://panel3.touhou.tel).
 
-## gluetun.conf
-Routing rules that send specific domains through a [Gluetun VPN container](https://github.com/qdm12/gluetun), useful for selective domain routing with OpenVPN.
+Includes:
+- Apple Intelligence and ChatGPT routing via `🇹🇼🇯🇵`
+- Company internal services routed via `GLUETUN`
+- Home network routing via `DS720-PLUS`
+
+`GLUETUN` and `DS720-PLUS` are expected to already exist in Shadowrocket.
