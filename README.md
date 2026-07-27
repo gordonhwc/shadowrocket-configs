@@ -8,7 +8,7 @@ Canonical all-in-one config for personal use with [东方网络](https://panel3.
 
 Includes:
 
-- Apple Intelligence and ChatGPT routing via `🇹🇼🇯🇵`
+- Apple Intelligence, ChatGPT, and Claude routing via `🇹🇼🇯🇵`
 - Company internal services routed via `GLUETUN`
 - Home network routing via `DS720-PLUS`
 
