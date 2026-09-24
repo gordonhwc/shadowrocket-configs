@@ -14,7 +14,7 @@ Includes:
 
 `GLUETUN` and `DS720-PLUS` are expected to already exist in Shadowrocket.
 
-## gordon.conf
+## Gordon.conf
 
 Proxy-only template for personal nodes.
 
