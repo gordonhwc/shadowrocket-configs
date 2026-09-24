@@ -17,3 +17,7 @@ Includes:
 ## gordon.conf
 
 Proxy-only template for personal nodes.
+
+## Surfshark.conf
+
+Proxy-only template for Surfshark WireGuard nodes.
